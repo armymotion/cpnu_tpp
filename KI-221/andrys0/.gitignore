@@ -1,6 +1,0 @@
-backend/.idea
-frontend/.idea
-
-backend/venv
-frontend/node_modules
-frontend/package-lock.json
